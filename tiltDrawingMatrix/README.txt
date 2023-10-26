@@ -1,0 +1,1 @@
+Draws a dot on a 8x8 LED board that can be moved around thanks to an accelerometer
